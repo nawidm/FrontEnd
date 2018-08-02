@@ -86,7 +86,7 @@ var Question = createReactClass({
             <div>
                 <h1>&nbsp;Question {this.props.index+1}</h1><br/>
                 <span>Drag the correct answer into the missing boxes</span>
-                <div className="tracker">Attempts: {this.state.attempts}</div>
+                <div className="tracker">Attempts: {this.state.attempts}</div><br/>
                 <div className="tracker">Your score: {this.state.score}</div>
 
                 <div className="answers">

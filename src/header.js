@@ -9,7 +9,7 @@ class Header extends Component{
             <div>
                 <div className="leaf">
                     <h1 className="header">
-                       Children of the Future<br/><br/>
+                       EZLearn
                    </h1>
                 </div>
             </div>
